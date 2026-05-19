@@ -1,0 +1,14 @@
+# Ignore old Git data
+.git/
+
+# Ignore compiled Java files
+build/
+dist/
+*.class
+
+# NetBeans temporary/project files
+nbproject/private/
+
+# Optional OS files
+.DS_Store
+Thumbs.db
